@@ -15,4 +15,4 @@ name: Webservice-Diffbot
 resources:
   homepage: https://github.com/garcer/WebService-Diffbot
   repository: https://github.com/garcer/WebService-Diffbot.git
-version: 0.001
+version: 0.002

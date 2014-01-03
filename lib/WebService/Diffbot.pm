@@ -1,5 +1,8 @@
 # ABSTRACT: Diffbot Perl API
 package WebService::Diffbot;
+{
+  $WebService::Diffbot::VERSION = '0.002';
+}
 
 use Moo;
 use namespace::clean;
